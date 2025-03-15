@@ -21,9 +21,8 @@
 1. 🤖 [Introduction](#introduction)  
 2. ⚙️ [Tech Stack](#tech-stack)  
 3. 🔋 [Features](#features)  
-4. 🤸 [Quick Start](#quick-start)  
-5. 🔗 [Assets](#assets)  
-6. 🤝 [Contribute](#contribute)  
+4. 🤸 [Quick Start](#quick-start)    
+5. 🤝 [Contribute](https://github.com/CodeSpherreDev/CodeSynapse/blob/general/CONTRIBUTING.md)  
 
 ---
 ## **🤖 Introduction**  
