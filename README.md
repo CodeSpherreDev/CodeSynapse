@@ -84,7 +84,7 @@ Ensure you have installed:
 ### **Clone the Repository**  
 
 ```bash
-git clone https://github.com/your-github-repo.git
+git clone https://github.com/CodeSpherreDev/CodeSynapse.git
 cd CodeSynapse
 ```
 
@@ -182,7 +182,7 @@ This project is licensed under the **MIT License**.
 
 For questions or suggestions, feel free to reach out!  
 
-📧 **Email:** your-email@example.com  
-🐙 **GitHub:** [your-github-profile](https://github.com/your-username)  
-🌐 **Website:** [your-website.com](https://your-website.com)  
+📧 **Email:** codespherre.official@gmail.com  
+🐙 **GitHub:** [https://github.com/CodeSpherreDev](https://github.com/CodeSpherreDev)  
+🌐 **Website:** [code-spherre.netlify.app](https://code-spherre.netlify.app)  
 
